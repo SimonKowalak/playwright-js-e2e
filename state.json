@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_de006f3a0130908890a24e71b86fba91",
+      "value": "Customer123%7C1676055103%7CGUCCOsk5nVggksLKxrZvv6vyehhFktwqpbAWzk4RaQU%7C04795d699232204035b4dc74f00081dbaf20b4f3d76df80fa847c019d5deaaab",
+      "domain": "www.77bugs.pl",
+      "path": "/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_de006f3a0130908890a24e71b86fba91",
+      "value": "Customer123%7C1676055103%7CGUCCOsk5nVggksLKxrZvv6vyehhFktwqpbAWzk4RaQU%7C04795d699232204035b4dc74f00081dbaf20b4f3d76df80fa847c019d5deaaab",
+      "domain": "www.77bugs.pl",
+      "path": "/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "lusnd79fd9o3m8q9tdcispmpdn",
+      "domain": "www.77bugs.pl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_logged_in_de006f3a0130908890a24e71b86fba91",
+      "value": "Customer123%7C1676055103%7CGUCCOsk5nVggksLKxrZvv6vyehhFktwqpbAWzk4RaQU%7Cb824b3aed7920afd717b3b79d10243dfac01b42f900311f0931b1d59a3f1e288",
+      "domain": "www.77bugs.pl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://www.77bugs.pl",
+      "localStorage": [
+        {
+          "name": "wc_cart_hash_9b9254f7e3bd527301ed236a30626553",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
